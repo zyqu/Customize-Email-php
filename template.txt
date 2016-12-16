@@ -1,0 +1,6 @@
+Hello #recipient,
+
+This is an email to #recipient. You can have you customized text first name #para_1, last name #para_2, and geo-location #para_3 defined for each recipient.
+
+Enjoy it!
+Sender
